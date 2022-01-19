@@ -1,1 +1,1 @@
-# Cadastro-de-S-ries
+# Cadastro-de-Séries
